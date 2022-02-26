@@ -1,3 +1,5 @@
+package me.mattco98;
+
 /**
  * Indicates an error has occurred when trying to
  * interface with Voicemeeter.

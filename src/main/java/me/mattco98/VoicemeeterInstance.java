@@ -1,3 +1,5 @@
+package me.mattco98;
+
 /*
  * COPYRIGHT: Vincent Burel (c) 2015 All Rights Reserved
  */
